@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.nella.example
+/vendor
+/node_modules
+/storage/*.key
+/public/storage
+__pycache__/
+.venv/
+*.pyc
